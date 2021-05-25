@@ -1,0 +1,1 @@
+Projekt deluje tako,da je LCD zaslonvezan na potenciometer in arduino. V arduino je vezan tudi majhen ventilator, ki je v resnici senzor. Vezan je na input A1 iz katerega prebere koliko hitro se suka ventilator. 
